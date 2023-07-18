@@ -14,6 +14,9 @@ The following topics will be covered: 
 * Evaluating portfolio performance <br>
   (Correlation, Portfolio Values, Cumulative Return Ratio, Annualized Returns, Annualized Volatility, Sharpe Ratio)
 
+* Hierarchical Risk Parity (HRP) and Efficient Frontier
+  (Optimization, Discrete Allocations)
+  
 
 ## Personal Notes:
 https://medium.com/@jnyh/analyzing-the-stock-market-with-python-part-i-39f14670771b
