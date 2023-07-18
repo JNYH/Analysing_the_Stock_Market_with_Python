@@ -14,7 +14,7 @@ The following topics will be covered: 
 * Evaluating portfolio performance <br>
   (Correlation, Portfolio Values, Cumulative Return Ratio, Annualized Returns, Annualized Volatility, Sharpe Ratio)
 
-* Hierarchical Risk Parity (HRP) and Efficient Frontier
+* Hierarchical Risk Parity (HRP) and Efficient Frontier <br>
   (Optimization, Discrete Allocations)
   
 
