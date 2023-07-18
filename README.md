@@ -6,7 +6,7 @@ Please feel free to fork this repo, and run the notebook. The stocks price data 
 The following topics will be covered: 
 
 * Downloading stock market data with Python <br>
-  (using yfinance)
+  (using `yfinance.download()`)
 
 * Calculating stock performance <br>
   (Annualized Returns, Annualized Volatility)
