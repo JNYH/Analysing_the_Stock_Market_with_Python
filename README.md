@@ -19,4 +19,6 @@ The following topics will be covered: 
   
 
 ## Personal Notes:
-https://medium.com/@jnyh/analyzing-the-stock-market-with-python-part-i-39f14670771b
+Part 1: https://medium.com/alpha-beta-blog/analyzing-the-stock-market-with-python-part-i-39f14670771b
+
+Part 2: https://medium.com/alpha-beta-blog/analyzing-the-stock-market-with-python-part-ii-19f8e9d8d0e9
